@@ -1,5 +1,3 @@
-import 'dart:async';
-import 'dart:convert';
 import 'package:flutter/material.dart';
 import '../backend/WeatherApi.dart';
 import '../models/WeatherEntry.dart';
