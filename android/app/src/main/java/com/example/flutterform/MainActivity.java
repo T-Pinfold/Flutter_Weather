@@ -1,4 +1,4 @@
-package com.example.testing;
+package com.example.flutterform;
 
 import android.os.Bundle;
 import io.flutter.app.FlutterActivity;

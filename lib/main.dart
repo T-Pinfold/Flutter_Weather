@@ -1,11 +1,6 @@
 import 'package:flutter/material.dart';
-import 'pages/FlutterWeather.dart';
-void main(){
-  runApp(
-      new MaterialApp(
-          title: 'Flutter Weather',
-          home: new FlutterWeather()
-      )
-  );
-}
+import 'src/app.dart';
 
+void main() {
+  runApp(new App());
+}
